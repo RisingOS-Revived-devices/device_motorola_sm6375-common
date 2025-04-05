@@ -1,0 +1,23 @@
+[
+    {
+        "remote":       "devices",
+        "repository":   "kernel_motorola_sm6375",
+        "target_path":  "kernel/motorola/sm6375",
+        "revision":     "fifteen",
+        "clone-depth":  "1"
+    },
+    {
+        "remote":       "devices",
+        "repository":   "vendor_motorola_sm6375-common",
+        "target_path":  "vendor/motorola/sm6375-common",
+        "revision":     "fifteen",
+        "clone-depth":  "1"
+    },
+    {
+        "remote":       "devices",
+        "repository":   "hardware_motorola",
+        "target_path":  "hardware/motorola",
+        "revision":     "fifteen",
+        "clone-depth":  "1"
+    }
+]
