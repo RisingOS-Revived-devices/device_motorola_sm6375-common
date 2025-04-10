@@ -47,6 +47,7 @@ lib_fixups: lib_fixups_user_type = {
     (
         'libdiag_system',
         'libthermalclient',
+        'libwpa_client',
         'vendor.qti.qspmhal@1.0',
     ): lib_fixup_remove,
 }
